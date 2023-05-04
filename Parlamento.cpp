@@ -142,9 +142,9 @@ public:
 
 int main() {
     Partito p1 = {"Unity", "UNT", "Barack Obama"};
-    PartitoDiDestra p2 = {"Brotherhood", "BHD", "James Walker", 56.234};
-    PartitoDiCentro p3 = {"Family", "FAM", "Vin Diesel", 65.251};
-    PartitoDiSinistra p4 = {"For the best", "FTB", "John Crown", 48.595};
+    PartitoDiDestra p2 = {"Brotherhood", "BHD", "James Walker", 51.234};
+    PartitoDiCentro p3 = {"Family", "FAM", "Vin Diesel", 23.639};
+    PartitoDiSinistra p4 = {"For the best", "FTB", "John Crown", 27.595};
 
     Parlamentare p5 = {"Jeniffer", "Brown", p2};
     Parlamentare p6 = {"Marcus", "Kingston", p3};
